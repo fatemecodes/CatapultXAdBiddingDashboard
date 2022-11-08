@@ -1,12 +1,7 @@
 # CatapultXAdBiddingDashboard
 It is the project with show the probability of wining with diffrent  parameters  like times series.
 #
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
+# 
 #
 
 # ====================
